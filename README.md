@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 Hi! I’m a software developer who enjoys learning new technologies and building cool projects. I have experience working with various programming languages and frameworks, and I’m always looking to improve my skills and contribute to interesting open-source projects.<br><br>- 🌱 Currently learning new tools and frameworks<br>- 👯 Looking to collaborate on open-source projects<br>- 💬 Ask me about anything tech-related!<br>- 📫 How to reach me: imafkerahmed@gmail.com<br><br>Thanks for stopping by!
 
 
