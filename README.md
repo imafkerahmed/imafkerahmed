@@ -20,11 +20,19 @@ Hi! I’m a software developer who enjoys learning new technologies and building
 
 ###
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imafkerahmed/imafkerahmed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imafkerahmed/imafkerahmed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imafkerahmed/imafkerahmed/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imafkerahmed&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imafkerahmed&icon=0&color=0)](https://visitcount.itsvg.in)
